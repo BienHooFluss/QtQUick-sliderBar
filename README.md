@@ -1,0 +1,2 @@
+# QtQUick-sliderBar
+new sliderBar
